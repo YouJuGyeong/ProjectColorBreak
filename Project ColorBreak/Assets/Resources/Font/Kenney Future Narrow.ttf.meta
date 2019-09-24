@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: aa703a4d148cef84e9b046ebd49d5f55
+guid: 6fbbbfc375a122c48ba29a0a6b011668
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -11,8 +11,7 @@ TrueTypeFontImporter:
   fontName: Kenney Future Narrow
   fontNames:
   - Kenney Future Narrow
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 6fbbbfc375a122c48ba29a0a6b011668, type: 3}
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
