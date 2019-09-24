@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b83dc04e5b5afb74fb030868fffbae1c
+guid: 179a16462dd963c4c833902e5b556242
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -11,7 +11,8 @@ TrueTypeFontImporter:
   fontName: Orbitron
   fontNames:
   - Orbitron
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b83dc04e5b5afb74fb030868fffbae1c, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
